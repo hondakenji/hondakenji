@@ -2,6 +2,7 @@
 
 - 🌱 I’m currently working as a Backend Developer!
 - 👯 I’m looking to collaborate on PHP/Laravel Projects or anything else related to Software Development!
+- :tropical_fish: Also have some experience with TypeScript/Vue.js and some AWS infrastructure envolving AWS CDK and Serverless applications.
 - 📫 How to reach me: instagram.com/hondakenji1
 
 <div>
