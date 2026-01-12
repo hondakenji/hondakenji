@@ -1,8 +1,8 @@
 ### Hey, there! I'm Kenji! ✨
 
 - 🌱 I’m currently working as a Backend Developer!
-- 👯 I’m looking to collaborate on PHP/Laravel Projects or anything else related to Software Development!
-- :tropical_fish: Also have some experience with TypeScript/Vue.js and some AWS infrastructure envolving AWS CDK and Serverless applications.
+- 👯 I’m looking to collaborate on PHP/Laravel projects or other software development initiatives.
+- :tropical_fish: Experience with TypeScript/Vue.js and AWS infrastructure, including AWS CDK and serverless architectures.
 - 📫 How to reach me: instagram.com/hondakenji1
 
 <div>
