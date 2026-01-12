@@ -1,7 +1,7 @@
 ### Hey, there! I'm Kenji! ✨
 
-- 🌱 I’m currently learning Java & Processing!
-- 👯 I’m looking to collaborate on Java Projects or anything else related to Software Development!
+- 🌱 I’m currently working as a Backend Developer!
+- 👯 I’m looking to collaborate on PHP/Laravel Projects or anything else related to Software Development!
 - 📫 How to reach me: instagram.com/hondakenji1
 
 <div>
